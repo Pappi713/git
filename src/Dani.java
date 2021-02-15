@@ -1,7 +1,7 @@
 public class Dani {
 
-    public void future(String horoscope){
-        System.out.println(horoscope);
-    }
+    public void future(){
+        System.out.println("Pig");
 
+    }
 }
