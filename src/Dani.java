@@ -3,3 +3,4 @@ public class Dani {
         System.out.println(horoscope);
     }
 }
+
