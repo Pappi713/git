@@ -1,6 +1,6 @@
 public class Kristof {
 
-    public void namePrinter(){
-        System.out.println("Kristof Papp");
+    public void namePrinter(String name){
+        System.out.println(name);
     }
 }
