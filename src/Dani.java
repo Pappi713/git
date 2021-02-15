@@ -1,6 +1,6 @@
 public class Dani {
     public void future() {
-        System.out.println("Pig");
+        System.out.println("alma");
     }
 }
 
