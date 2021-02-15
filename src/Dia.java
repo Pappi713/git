@@ -8,11 +8,7 @@ public class Dia {
 
     public static Integer count(int birthyear) {
         int presentYear = 2021;
-<<<<<<< HEAD
         System.out.println("08");
-        return presentYear - birthYear;
-=======
-        return presentYear - birthyear;
->>>>>>> 198e712e4fe3edd8564d5e0802ff05f2d08b05bd
+        return presentYear - 1996;
     }
 }
