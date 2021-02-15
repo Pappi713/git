@@ -1,7 +1,9 @@
 public class Kristof {
 
-    public void namePrinter(String name){
-        System.out.println(name);
+    private String name;
+
+    public void greet(){
+        System.out.println("Greetings!");
     }
     public void cheer(String className) {
         System.out.println(className);
